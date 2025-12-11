@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "BSjA4DY7XYPDDGtqykYoczpefuE6MBYKTDPDUHB52M5F",
+  "symbol": "UMIT",
+  "name": "Universal Medical Infrastructure Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/UMIT-PROTOCOL/token-metadata/main/assets/umit.png",
+  "tags": ["healthcare", "governance", "protocol", "umit"],
+  "extensions": {
+    "website": "https://umit.network",
+    "description": "UMIT is a fixed-supply governance and utility token powering the Universal Medical Infrastructure Protocol.",
+    "twitter": "https://twitter.com/helloumit"
+  }
+}
+
